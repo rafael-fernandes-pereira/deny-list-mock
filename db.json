@@ -1,0 +1,7 @@
+{
+    "deny": [
+        "teste@hacker.com",
+        "hacker@elonmusk.com",
+        "annonymous@cia.com"
+    ]
+}
